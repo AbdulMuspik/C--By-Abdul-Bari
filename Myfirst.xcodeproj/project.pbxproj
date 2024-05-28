@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3D679FD02C0562DA00A721F3 /* Area of a triangle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D679FCF2C0562DA00A721F3 /* Area of a triangle.cpp */; };
+		3D679FD22C069B6E00A721F3 /* Sum of first n natural numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +31,7 @@
 		3D679FCB2C055EFF00A721F3 /* Area of a Circle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Area of a Circle.cpp"; sourceTree = "<group>"; };
 		3D679FCD2C055F3A00A721F3 /* Fibonacci Series.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fibonacci Series.cpp"; sourceTree = "<group>"; };
 		3D679FCF2C0562DA00A721F3 /* Area of a triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Area of a triangle.cpp"; sourceTree = "<group>"; };
+		3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sum of first n natural numbers.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,13 +64,14 @@
 		3D13B44F2BFCB5B200E30037 /* Myfirst */ = {
 			isa = PBXGroup;
 			children = (
-				3D679FCF2C0562DA00A721F3 /* Area of a triangle.cpp */,
-				3D679FCD2C055F3A00A721F3 /* Fibonacci Series.cpp */,
-				3D679FCB2C055EFF00A721F3 /* Area of a Circle.cpp */,
 				3D13B4502BFCB5B200E30037 /* main.cpp */,
-				3D679FC42C04958A00A721F3 /* Add 2 nos.cpp */,
 				3D679FC72C049D3000A721F3 /* Greeting Message.cpp */,
+				3D679FC42C04958A00A721F3 /* Add 2 nos.cpp */,
+				3D679FCF2C0562DA00A721F3 /* Area of a triangle.cpp */,
+				3D679FCB2C055EFF00A721F3 /* Area of a Circle.cpp */,
 				3D679FC92C055E9D00A721F3 /* Quadratic Equation Solver.cpp */,
+				3D679FCD2C055F3A00A721F3 /* Fibonacci Series.cpp */,
+				3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */,
 			);
 			path = Myfirst;
 			sourceTree = "<group>";
@@ -131,7 +133,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D679FD02C0562DA00A721F3 /* Area of a triangle.cpp in Sources */,
+				3D679FD22C069B6E00A721F3 /* Sum of first n natural numbers.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
