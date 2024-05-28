@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3D679FD22C069B6E00A721F3 /* Sum of first n natural numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */; };
+		3D679FD52C069FB300A721F3 /* Finding Speed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3D679FD42C069FB300A721F3 /* Finding Speed.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -32,6 +32,7 @@
 		3D679FCD2C055F3A00A721F3 /* Fibonacci Series.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Fibonacci Series.cpp"; sourceTree = "<group>"; };
 		3D679FCF2C0562DA00A721F3 /* Area of a triangle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Area of a triangle.cpp"; sourceTree = "<group>"; };
 		3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Sum of first n natural numbers.cpp"; sourceTree = "<group>"; };
+		3D679FD42C069FB300A721F3 /* Finding Speed.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Finding Speed.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 				3D679FC92C055E9D00A721F3 /* Quadratic Equation Solver.cpp */,
 				3D679FCD2C055F3A00A721F3 /* Fibonacci Series.cpp */,
 				3D679FD12C069B6E00A721F3 /* Sum of first n natural numbers.cpp */,
+				3D679FD42C069FB300A721F3 /* Finding Speed.cpp */,
 			);
 			path = Myfirst;
 			sourceTree = "<group>";
@@ -133,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3D679FD22C069B6E00A721F3 /* Sum of first n natural numbers.cpp in Sources */,
+				3D679FD52C069FB300A721F3 /* Finding Speed.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
